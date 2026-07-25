@@ -1,39 +1,6 @@
-# ==========================
-# Virtual Environment
-# ==========================
 venv/
-
-# ==========================
-# Python
-# ==========================
 __pycache__/
-*.py[cod]
+.ipynb_checkpoints/
 
-# ==========================
-# VS Code
-# ==========================
-.vscode/
-
-# ==========================
-# Environment Variables
-# ==========================
-.env
-
-# ==========================
-# Datasets
-# Ignore only dataset files
-# ==========================
-datasets/*.csv
-datasets/*.json
-
-# ==========================
-# Trained Models
-# ==========================
-models/trained_model/
 models/distilbert_grievance/
-
-# Optional
-*.pt
-*.pth
-*.bin
-*.safetensors
+models/trained_model/

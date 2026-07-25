@@ -1,0 +1,14 @@
+{
+    "Corruption": 0,
+    "Education": 1,
+    "Electricity": 2,
+    "Environment": 3,
+    "Health": 4,
+    "Public Safety": 5,
+    "Public Transport": 6,
+    "Road Maintenance": 7,
+    "Street Lighting": 8,
+    "Traffic": 9,
+    "Waste Management": 10,
+    "Water Supply": 11
+}
